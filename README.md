@@ -1,7 +1,10 @@
 # NullDetection
 
-NullDetection is an dedicated Software for Roblox that interacts with it.
+NullDetection is a dedicated software for Roblox that interacts with the platform.
 
-NullDetection is fully a open-source project, everybody can make updates, use it, and publishing it!
+This project is **fully open-source**, which means anyone can use it, modify it, and contribute to it.
 
-# WARNING⚠️: NullDetection is protected by the [public General GNU v3] License (https://www.gnu.org/licenses/gpl-3.0.txt), that means that you can fork it, publishing it, but it requires to make the fork open source
+## License ⚠️
+
+NullDetection is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).  
+You are free to **fork and redistribute** the project, but any derivative work **must remain open-source** under the same license.
