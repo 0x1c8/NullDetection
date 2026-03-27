@@ -1,0 +1,2 @@
+# NullDetection
+Only for roblox
